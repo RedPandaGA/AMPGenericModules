@@ -1,0 +1,7 @@
+[
+    {
+        "ConfigFile": "steamapps/common/PalServer/DefaultPalWorldSettings.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    }
+]
