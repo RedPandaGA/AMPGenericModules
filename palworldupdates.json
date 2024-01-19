@@ -9,7 +9,7 @@
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Linux",
         "DeleteAfterExtract": true,
-        "OneShot": false
+        "OneShot": true
     },
     {
         "UpdateStageName": "First Time Start Up",
